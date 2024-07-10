@@ -37,6 +37,7 @@ System.out.println();
 
 
 #2. Qu’est ce que du code propre ?
+
 Une code propre est un code qui exprime une intention.
 Un code maintenable et évoluable.
 Qui respecte de bonne règle de nommage pour les variables, des fonctions qui respectent les principes SOLID.

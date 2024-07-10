@@ -1,4 +1,4 @@
-##ROMAIN BELHIS
+## ROMAIN BELHIS
 
 # partielSC
 
@@ -38,21 +38,21 @@ System.out.println();
 }
 
 
-#2. Qu’est ce que du code propre ?
+# 2. Qu’est ce que du code propre ?
 
 Une code propre est un code qui exprime une intention.
 Un code maintenable et évoluable.
 Qui respecte de bonne règle de nommage pour les variables, des fonctions qui respectent les principes SOLID.
 
 
-#3. De votre expérience de l’agilité en entreprise, en vous basant surles piliers du manifeste vu en cours. Que pourriez vous améliorer dans la geson de vos projets ?
+# 3. De votre expérience de l’agilité en entreprise, en vous basant surles piliers du manifeste vu en cours. Que pourriez vous améliorer dans la geson de vos projets ?
 
 De mon exprérience, la règle vu en cours qui me parle le plus c'est : Un code qui exprime bien l'intention, une  meilleur segmentation des fonctions pour une meilleur maintenabilité.
 Dans mon métier les documentations sont fortement exhasutive au dela d'une solution opérationnelle qi se comprend d'elle même.
 Si nos solutions exprime mieux le métier dans les nommages et la segmentations des fonctions, le support/évolutions seraient beaucoup plus confortable.
 La compréhension du métier au centre du développement.
 
-#4.
+# 4.
 La classe OrderProcessor fait trop de choses.
 Difficile d'ajouter de nouvelles fonctionnalités sans modifier OrderProcessor.
 OrderProcessor dépend directement de Database, EmailService, et InventorySystem au lieu de dépendre d'abstractions.
